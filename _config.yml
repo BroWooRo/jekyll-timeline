@@ -22,6 +22,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 description: Will Ro
-baseurl: "https://github.com/BroWooRo/jekyll-timeline"
+baseurl: "/jekyll-timeline"
 url: http://browooro.github.io
 color: "#f2f2f2"
